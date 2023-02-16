@@ -15,7 +15,7 @@ export default function Inicio() {
   }
   return (
     <section>
-      <h3 className={stylesTema.titulo}>Recomendações da cozinha</h3>
+      <h3 className={stylesTema.titulo}>Recomendações da nossa cozinha</h3>
       <div className={styles.recomendados}>
         {pratosRecomendados.map((item) => (
           <div key={item.id} className={styles.recomendado}>
