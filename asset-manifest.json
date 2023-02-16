@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/restaurante-react-route/static/css/main.59eb2f35.css",
-    "main.js": "/restaurante-react-route/static/js/main.6d381328.js",
+    "main.js": "/restaurante-react-route/static/js/main.cd00425a.js",
     "static/media/header.png": "/restaurante-react-route/static/media/header.b657dd083e14f631a54c.png",
     "static/media/nossa_casa.png": "/restaurante-react-route/static/media/nossa_casa.3fce23b5f216aa3d377f.png",
     "static/media/massa1.png": "/restaurante-react-route/static/media/massa1.b54a937ecf33911a10be.png",
@@ -11,10 +11,10 @@
     "static/media/logo.svg": "/restaurante-react-route/static/media/logo.4aa691b6070b74b5f57b342792fde93d.svg",
     "index.html": "/restaurante-react-route/index.html",
     "main.59eb2f35.css.map": "/restaurante-react-route/static/css/main.59eb2f35.css.map",
-    "main.6d381328.js.map": "/restaurante-react-route/static/js/main.6d381328.js.map"
+    "main.cd00425a.js.map": "/restaurante-react-route/static/js/main.cd00425a.js.map"
   },
   "entrypoints": [
     "static/css/main.59eb2f35.css",
-    "static/js/main.6d381328.js"
+    "static/js/main.cd00425a.js"
   ]
 }
